@@ -1,0 +1,6 @@
+echo“#zzq_data”>> README.md 
+git init 
+git add README.md 
+git commit -m“first commit” 
+git remote add origin https://github.com/qq1033435789/zzq_data.git
+ git push -u origin master
